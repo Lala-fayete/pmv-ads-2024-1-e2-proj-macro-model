@@ -1,8 +1,8 @@
-# TÍTULO DO PROJETO
+# MACRO MODEL
 
-`CURSO`
+`CURSO` Análise e Desenvolvimento de Sistemas
 
-`DISCIPLINA`
+`DISCIPLINA` Projeto - Desenvolvimento de uma Aplicação Interativa
 
 `SEMESTRE`
 
@@ -10,14 +10,16 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* João Gabriel Barrozo Rocha
+* Jonathan Vaz de Avelar
+* Lafayete Queiroz Horta
+* Lucas Antonio Miranda da Silva
+* Pedro Roberto Gomes da Silva Abadia
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Rosilane Ribeiro da Mota
 
 ## Instruções de utilização
 
