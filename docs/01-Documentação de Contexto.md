@@ -19,8 +19,6 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 > - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
 
 ## Objetivos
-
-Objetivos:
     • Criar uma plataforma online que ofereça acesso fácil e rápido a informações nutricionais detalhadas de produtos alimentícios.
     • Implementar um sistema de alerta que avise os usuários sobre a presença de ingredientes aos quais são intolerantes ou alérgicos.
     • Garantir que a plataforma seja intuitiva e acessível, atendendo às necessidades de diversos tipos de usuários.
