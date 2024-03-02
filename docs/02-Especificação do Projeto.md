@@ -89,7 +89,7 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 > - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
 > - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
 
-##Divisão de Papéis
+## Divisão de Papéis
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 •	Product Owner: Pedro Roberto Gomes da Silva Abadia
 •	Scrum Master: João Gabriel Barrozo Rocha
