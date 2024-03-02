@@ -55,20 +55,19 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Na página inicial, o site deve permitir um cadastro de conta. | ALTA | 
 |RF-002| Na página inicial, o site deve permitir realizar o login.   | MÉDIA |
-|RF-003| A página inicial deve ter dois banners reservados para imagens de marketing selecionadas pelo perfil administrador, como apresentação do site, suas vantagens e notícias, com o efeito carrossel de movimentação de imagens.  | MÉDIA |
-|RF-004| A página inicial deve ter um botão no menu para a tela “Quem Somos”, que dará mais detalhes sobre o site e o grupo desenvolvedor.   | MÉDIA |
-|RF-005| No cadastro de novo usuário, o sistema deverá consultar a disponibilidade do nome de usuário desejado, para que não existam perfis com nomes de usuário repetidos.   | MÉDIA |
-|RF-006| Todos os campos no cadastro e login devem ser obrigatórios.   | MÉDIA |
-|RF-007| Na tela de Alteração de Banners, o perfil administrador deve conseguir fazer upload da imagem, escolher quantos imagens terão.   | MÉDIA |
-|RF-008| Na abertura de chamado deve-se permitir anexar uma imagem.  | MÉDIA |
-|RF-009| Todos os tipos de perfis após logados, na tela interna, terão um menu lateral esquerdo com as funções disponíveis, uma tela central onde serão apresentadas as telas internas, na parte superior esquerda deve ter a logo do site, na parte superior direita deve ter sobre o usuário logado: Foto; Nome de Usuário; Sair.   | MÉDIA |
-|RF-010| A tela alimentos deverá apresentar os botões: Filtrar por Ordem Alfabética.  | MÉDIA |
-|RF-011| A tela de Criar Nova Pasta deverá ter os campos obrigatórios a preencher: Título da Pasta; Privacidade   | MÉDIA |
-|RF-012| A tela de Alterar Foto deve ser apresentada ao clicar em Alterar Foto no menu esquerdo.   | MÉDIA |
-|RF-013| A tela de Adicionar Novo Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.   | MÉDIA |
-|RF-014| A tela de Alterar Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.   | MÉDIA |
-|RF-015| O botão de Excluir Item deverá excluir o item do card.   | MÉDIA |
-|RF-016| A tela de Visualizar Item permitirá o usuário visualizar os campos: Imagem do item; Título do Item; Categoria   | MÉDIA |
+|RF-003| A página inicial deve ter um botão no menu para a tela “Quem Somos”, que dará mais detalhes sobre o site e o grupo desenvolvedor.   | MÉDIA |
+|RF-004| No cadastro de novo usuário, o sistema deverá consultar a disponibilidade do nome de usuário desejado, para que não existam perfis com nomes de usuário repetidos.   | MÉDIA |
+|RF-005| Todos os campos no cadastro e login devem ser obrigatórios.   | MÉDIA |
+|RF-006| Na tela de Alteração de Banners, o perfil administrador deve conseguir fazer upload da imagem, escolher quantos imagens terão.   | MÉDIA |
+|RF-007| Na abertura de chamado deve-se permitir anexar uma imagem.  | MÉDIA |
+|RF-008| Todos os tipos de perfis após logados, na tela interna, terão um menu lateral esquerdo com as funções disponíveis, uma tela central onde serão apresentadas as telas internas, na parte superior esquerda deve ter a logo do site, na parte superior direita deve ter sobre o usuário logado: Foto; Nome de Usuário; Sair.   | MÉDIA |
+|RF-009| A tela alimentos deverá apresentar os botões: Filtrar por Ordem Alfabética.  | MÉDIA |
+|RF-010| A tela de Criar Nova Pasta deverá ter os campos obrigatórios a preencher: Título da Pasta; Privacidade   | MÉDIA |
+|RF-011| A tela de Alterar Foto deve ser apresentada ao clicar em Alterar Foto no menu esquerdo.   | MÉDIA |
+|RF-012| A tela de Adicionar Novo Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.   | MÉDIA |
+|RF-013| A tela de Alterar Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.   | MÉDIA |
+|RF-014| O botão de Excluir Item deverá excluir o item do card.   | MÉDIA |
+|RF-015| A tela de Visualizar Item permitirá o usuário visualizar os campos: Imagem do item; Título do Item; Categoria   | MÉDIA |
 
 ### Requisitos não Funcionais
 
