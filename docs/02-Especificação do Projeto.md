@@ -1,4 +1,19 @@
 # Especificações do Projeto
+| Perfis de Administrador | Perfil de Cliente |
+|-------------------------|--------------------|
+| Usuário responsável pelo gerenciamento e abastecimento do site. | Usuário que irá utilizar o conteúdo e a interface como consumidor.|
+| Ter conhecimento sobre necessidades do site através de chamados abertos usuários no site. | Obter acesso fácil e rápido a informações sobre os alimentos catalogados os itens com informações personalizadas para preservar a integridade de consumo. |
+| Abastecer a página inicial com informações de notícias atualizadas, verificadas e que promovam interesse pela plataforma. | Ter acesso ao seu perfil próprio, onde consiga visualizar os alimentos catálogos de forma centralizada e intuitiva. |
+
+Perfil Cliente
+Descrição
+Usuário que irá utilizar o conteúdo e a interface como consumidor.
+
+Necessidades
+Obter acesso fácil e rápido a informações sobre os alimentos
+catalogados os itens com informações personalizadas para preservar a integridade de consumo.
+
+Ter acesso ao seu perfil próprio, onde consiga visualizar os alimentos catálogos de forma centralizada e intuitiva.
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
