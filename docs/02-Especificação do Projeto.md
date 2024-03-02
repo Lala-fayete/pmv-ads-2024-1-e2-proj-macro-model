@@ -25,20 +25,28 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
+## Histórias de Usuários
+
+Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+
 |EU COMO... `QUEM`| QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|ADMINISTRADOR | Consultar chamados de suporte abertos | fornecer suporte para os usuários e ter conhecimento dos problemas que estão ocorrendo com os clientes na plataforma  |
-|ADMINISTRADOR | Fornecer imagens de itens ou analisar imagens | Possibilitando a opção de compra de determinado item para colecionadores |
-|ADMINISTRADOR | Gerar e Filtrar | Ter acesso a informações sobre a movimentação do site para acompanhamento |
+|ADMINISTRADOR | Consultar chamados de suporte abertos. | Fornecer suporte para os usuários e ter conhecimento dos problemas que estão ocorrendo com os clientes na plataforma.  |
+|ADMINISTRADOR | Fornecer imagens de itens ou analisar imagens. | Possibilitando a opção de compra de determinado item para colecionadores. |
+|ADMINISTRADOR | Gerar e Filtrar. | Ter acesso a informações sobre a movimentação do site para acompanhamento. |
+|ADMINISTRADOR | Adicionar, editar ou excluir usuários do sistema. | Gerenciar o acesso e as permissões dos usuários na plataforma. |
+|ADMINISTRADOR | Configurar e personalizar as preferências e configurações do sistema. | Adaptar a plataforma às necessidades específicas da minha organização. |
+|ADMINISTRADOR | Ter acesso a um painel de controle intuitivo e fácil de usar. | Facilitar a navegação e a administração da plataforma, mesmo sem conhecimento técnico avançado. |
+|CLIENTE | Poder localizar o alimento através do filtro de pesquisa. | Realizar interações de texto com disponível(somente leitura). |
+|CLIENTE | Acessar informações detalhadas sobre a composição nutricional de alimentos naturais e saudáveis. | Auxiliar na elaboração de planos alimentares personalizados para meus clientes, promovendo a saúde e o bem-estar. |
+|CLIENTE | Encontrar informações sobre os benefícios para a saúde de diferentes alimentos naturais e suas propriedades nutricionais. | Incorporar escolhas alimentares mais saudáveis na minha dieta diária e melhorar minha qualidade de vida. |
+|CLIENTE | Acessar dados sobre o alimento saudável e seus benefícios. | Informar e educar o público sobre a importância de escolhas alimentares conscientes e promover hábitos saudáveis de vida.|
+|CLIENTE | Encontrar informações sobre opções de alimentos naturais e saudáveis que atendam às minhas necessidades dietéticas específicas. | Manter uma dieta equilibrada e saudável, mesmo com restrições alimentares, e garantir minha nutrição adequada.|
+|CLIENTE | Acessar informações sobre alimentos que atendam às minhas necessidades nutricionais específicas, levando em consideração minha prática esportiva. | Garantir que minha dieta seja adequada para sustentar meu desempenho atlético, mesmo com restrições alimentares.|
+|CLIENTE | Encontrar recursos sobre alimentação saudável que sejam compatíveis com minha condição médica, como diabetes, doença celíaca, alergias alimentares, entre outras. | Gerenciar minha condição de saúde através de uma dieta adequada e segura, minimizando sintomas e promovendo meu bem-estar geral.|
+|CLIENTE | Descobrir opções de alimentos que se encaixem no meu estilo de vida vegano/vegetariano e também atendam às minhas restrições alimentares específicas.| Manter uma dieta variada, equilibrada e nutritiva, mesmo com múltiplas restrições alimentares, sem comprometer meus princípios éticos ou minha saúde.|
+|CLIENTE | Encontrar informações sobre opções de alimentos que estejam alinhadas com minhas crenças ou convicções pessoais, como dietas kosher, halal, ou outras restrições alimentares baseadas em princípios religiosos ou éticos. | Seguir minha dieta de acordo com minhas convicções pessoais, respeitando minhas tradições e valores culturais. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
-
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
 
 ## Requisitos
 
