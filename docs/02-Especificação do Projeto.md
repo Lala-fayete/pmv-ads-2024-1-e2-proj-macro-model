@@ -21,9 +21,6 @@ Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos 
 >
 Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
 
-## Histórias de Usuários
-
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
 ## Histórias de Usuários
 
