@@ -74,7 +74,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ser responsiva | MÉDIA | 
-|RNF-002| A aplicação deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-002| Aplicação deve permitir meios de compartilhamento Web. |  ALTA | 
+|RNF-003| A aplicação deve ser compatível com os navegadores. Deve ser compatível com os principais navegadores do mercado: Google Chrome, Firefox e Microsoft Edge. | ALTA | 
+|RNF-004| A aplicação deve ter bom nível de contraste entre os elementos da tela. |  MÉDIA | 
+|RNF-005| A aplicação web deve possuir um bom desempenho de tempo. Estimativa: Processamento de telas em até 15 segundos. | MÉDIA | 
+|RNF-006| A aplicação deve ser responsiva, adaptando-se automaticamente a diferentes tamanhos de tela e resoluções, proporcionando uma boa experiência de usuário em dispositivos móveis. |  ALTA | 
+|RNF-007| A aplicação deve ser escalável, capaz de lidar com um aumento significativo no número de usuários e no volume de dados sem comprometer o desempenho. |  ALTA | 
+|RNF-008| A aplicação deve ser de fácil manutenção, com código bem organizado e documentado, facilitando futuras atualizações e correções de bugs. |  MÉDIA | 
+
 
 ## Restrições
 
