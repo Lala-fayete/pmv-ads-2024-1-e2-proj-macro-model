@@ -5,22 +5,6 @@
 | Ter conhecimento sobre necessidades do site através de chamados abertos usuários no site. | Obter acesso fácil e rápido a informações sobre os alimentos catalogados os itens com informações personalizadas para preservar a integridade de consumo. |
 | Abastecer a página inicial com informações de notícias atualizadas, verificadas e que promovam interesse pela plataforma. | Ter acesso ao seu perfil próprio, onde consiga visualizar os alimentos catálogos de forma centralizada e intuitiva. |
 
-Perfil Cliente
-Descrição
-Usuário que irá utilizar o conteúdo e a interface como consumidor.
-
-Necessidades
-Obter acesso fácil e rápido a informações sobre os alimentos
-catalogados os itens com informações personalizadas para preservar a integridade de consumo.
-
-Ter acesso ao seu perfil próprio, onde consiga visualizar os alimentos catálogos de forma centralizada e intuitiva.
-
-<span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
-
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do  diagrama de personas, histórias de usuários, requisitos funcionais e não funcionais além das restrições do projeto.
-
-Apresente uma visão geral do que será abordado nesta parte do documento, enumerando as técnicas e/ou ferramentas utilizadas para realizar a especificações do projeto
-
 ## Personas
 
 Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
@@ -41,10 +25,11 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `QUEM`| QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
-|Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
+|ADMINISTRADOR | Consultar chamados de suporte abertos | fornecer suporte para os usuários e ter conhecimento dos problemas que estão ocorrendo com os clientes na plataforma  |
+|ADMINISTRADOR | Fornecer imagens de itens ou analisar imagens | Possibilitando a opção de compra de determinado item para colecionadores |
+|ADMINISTRADOR | Gerar e Filtrar | Ter acesso a informações sobre a movimentação do site para acompanhamento |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
