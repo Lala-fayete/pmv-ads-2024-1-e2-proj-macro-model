@@ -91,10 +91,10 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Divisão de Papéis
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
-•	Product Owner: Pedro Roberto Gomes da Silva Abadia
-•	Scrum Master: João Gabriel Barrozo Rocha
-•	Equipe de Desenvolvimento: , Jonathan Vaz de Avelar, Lucas Antonio Miranda da Silva, 
-•	Equipe de Design: Lafayete Queiroz Horta
+-	Product Owner: Pedro Roberto Gomes da Silva Abadia
+-	Scrum Master: João Gabriel Barrozo Rocha
+-	Equipe de Desenvolvimento: , Jonathan Vaz de Avelar, Lucas Antonio Miranda da Silva, 
+-	Equipe de Design: Lafayete Queiroz Horta
 
 
 ## Diagrama de Casos de Uso
