@@ -48,7 +48,7 @@ Com base na análise das personas identificadas para o projeto, foram formuladas
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Ana Santos | Pesquisar alimentos ricos em proteínas e carboidratos complexos.  | Me preparar para uma competição importante.  |
-|Ana Santos | Encontrar alimentos com alto teor de antioxidantes e anti-inflamatórios naturais que possam ajudar a reduzir a inflamação e promover a reparação muscular. | Garantir que estou me alimentando corretamente para ajudar na recuperação muscular.   
+|Ana Santos | Encontrar alimentos com alto teor de antioxidantes e anti-inflamatórios naturais que possam ajudar a reduzir a inflamação e promover a reparação muscular. | Garantir que estou me alimentando corretamente para ajudar na recuperação muscular.   |
 |Carlos Lima | Encontrar opções de alimentos ricos em proteínas vegetais que sejam convenientes e acessíveis.
   | Manter uma dieta vegetariana equilibrada que atenda às minhas necessidades nutricionais e promova saúde e bem-estar.  
 |Carlos Lima | Descobrir novos alimentos de origem vegetal. | Utilizar em receitas criativas e ricas para variar minha alimentação e evitar monotonia. |
