@@ -13,7 +13,9 @@ Persona | **1**
 <img src="img/personas/persona1.PNG" width="150" height="150" />| **Ana Santos**  
 **Idade:** 28 
 **Profissão:** Atleta Profissional 
-**Hobbies:** Alimentação e bem estar, caminhadas|**Aplicativos:** Instagram, Apps bancários, Netflix, WhatsApp, Telegram **Motivações:** Alcançar seu máximo potencial como atleta, melhorar seus tempos de corrida, prevenir lesões e manter um estado físico e mental ótimo. **Preocupações:** Garantir que sua dieta forneça os nutrientes necessários para sustentar seu treinamento intenso e promover a recuperação muscular.
+**Hobbies:** Alimentação e bem estar, caminhadas|
+**Aplicativos:** Instagram, Apps bancários, Netflix, WhatsApp, Telegram 
+**Motivações:** Alcançar seu máximo potencial como atleta, melhorar seus tempos de corrida, prevenir lesões e manter um estado físico e mental ótimo. **Preocupações:** Garantir que sua dieta forneça os nutrientes necessários para sustentar seu treinamento intenso e promover a recuperação muscular.
 **Persona** | **2** 
 <img src="img/personas/persona1.PNG" width="150" height="150" />| **Carlos Lima**  
 **Idade:** 35 
