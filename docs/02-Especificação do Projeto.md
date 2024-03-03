@@ -6,43 +6,61 @@
 | Abastecer a página inicial com informações de notícias atualizadas, verificadas e que promovam interesse pela plataforma. | Ter acesso ao seu perfil próprio, onde consiga visualizar os alimentos catálogos de forma centralizada e intuitiva. |
 
 ## Personas
+As personas levantadas durante o processo de entendimento do problema são apresentadas nas tabelas que se seguem:
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
-
-Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes ideais que sua solução almeja.
+Persona | **1**
+---|---
+<img src="img/personas/persona1.PNG" width="150" height="150" />| **Ana Santos**  
+**Idade:** 28 
+**Profissão:** Atleta Profissional 
+**Hobbies:** Alimentação e bem estar, caminhadas|**Aplicativos:** Instagram, Apps bancários, Netflix, WhatsApp, Telegram **Motivações:** Alcançar seu máximo potencial como atleta, melhorar seus tempos de corrida, prevenir lesões e manter um estado físico e mental ótimo. **Preocupações:** Garantir que sua dieta forneça os nutrientes necessários para sustentar seu treinamento intenso e promover a recuperação muscular.
+**Persona** | **2** 
+<img src="img/personas/persona1.PNG" width="150" height="150" />| **Carlos Lima**  
+**Idade:** 35 
+**Profissão:** Engenheiro Mecânico 
+**Hobbies:** Permacultura, Literatura e nutrição|**Aplicativos:** Facebook, Aplicativos de bancos, Whatsapp **Motivações:** Promover a saúde pessoal, reduzir o impacto ambiental de sua dieta e viver de acordo com seus valores éticos. **Preocupações:** Garantir que os alimentos que consome sejam livres de ingredientes de origem animal e atendam às suas necessidades nutricionais.
+**Persona** | **3** 
+<img src="img/personas/persona1.PNG" width="150" height="150" />| **Maria Oliveira**  
+**Idade:** 40 
+**Profissão:** Assistente Administrativo 
+**Hobbies:** Horta doméstica e Confeitaria|**Aplicativos:** Facebook, Instagram, Whatsapp, Aplicativos de bancos **Motivações:** Promover a saúde e o bem-estar de sua família, oferecendo alimentos saudáveis e equilibrados que se encaixem em sua rotina agitada.
+ **Preocupações:** Garantir que sua família consuma uma dieta nutritiva, mesmo com uma agenda lotada.
+ **Persona** | **4** 
+<img src="img/personas/persona1.PNG" width="150" height="150" />| **João Silva**  
+**Idade:** 20 
+**Profissão:** Garsom  
+**Hobbies:** Economia, cutivo de cogumelos|**Aplicativos:** Facebook, Instagram, Whatsapp, Aplicativos de bancos, youtube **Motivações:** Maximizar seu potencial acadêmico, promover sua saúde e bem-estar e desenvolver hábitos alimentares saudáveis que o acompanhem ao longo da vida. **Preocupações:** Garantir que sua dieta seja nutritiva e equilibrada, apesar das restrições de tempo e orçamento.
+**Persona** | **5** 
+<img src="img/personas/persona1.PNG" width="150" height="150" />| **Larissa Mendes**  
+**Idade:** 32 
+**Profissão:** Nutricionista  
+**Hobbies:** Nutrição, caminhada ao ar livre|**Aplicativos:** Instagram, Skoob, Apps bancários, Netflix, WhatsApp, Telegram   **Motivações:** Promover a saúde e o bem-estar de seus pacientes, fornecendo orientações nutricionais personalizadas que atendam às suas necessidades individuais. **Preocupações:** Garantir que suas recomendações nutricionais sejam baseadas em evidências científicas sólidas e dados precisos.
+**Persona** | **6** 
+<img src="img/personas/persona1.PNG" width="150" height="150" />| **Pedro Oliveira**  
+**Idade:** 28 
+**Profissão:** Cozinheiro  
+**Hobbies:** Culinária, nutrição e bem estar|**Aplicativos:** Instagram, Apps bancários, Netflix, WhatsApp, Telegram e youtube   **Motivações:** Promover sua saúde e bem-estar, experimentar novos sabores e ingredientes, e compartilhar suas descobertas com sua comunidade online. **Preocupações:** Garantir que sua dieta seja nutritiva, equilibrada e sustentável.
 
 
 ## Histórias de Usuários
 
-Com base na análise das personas forma identificadas as seguintes histórias de usuários:
+Com base na análise das personas identificadas para o projeto, foram formuladas as seguintes histórias de usuários:
 
-|EU COMO... `QUEM`| QUERO/PRECISO ... `O QUE` |PARA ... `PORQUE`                 |
+|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|ADMINISTRADOR | Consultar chamados de suporte abertos. | Fornecer suporte para os usuários e ter conhecimento dos problemas que estão ocorrendo com os clientes na plataforma.  |
-|ADMINISTRADOR | Fornecer imagens de itens ou analisar imagens. | Possibilitando a opção de compra de determinado item para colecionadores. |
-|ADMINISTRADOR | Gerar e Filtrar. | Ter acesso a informações sobre a movimentação do site para acompanhamento. |
-|ADMINISTRADOR | Adicionar, editar ou excluir usuários do sistema. | Gerenciar o acesso e as permissões dos usuários na plataforma. |
-|ADMINISTRADOR | Configurar e personalizar as preferências e configurações do sistema. | Adaptar a plataforma às necessidades específicas da minha organização. |
-|ADMINISTRADOR | Ter acesso a um painel de controle intuitivo e fácil de usar. | Facilitar a navegação e a administração da plataforma, mesmo sem conhecimento técnico avançado. |
-|CLIENTE | Poder localizar o alimento através do filtro de pesquisa. | Realizar interações de texto com disponível(somente leitura). |
-|CLIENTE | Acessar informações detalhadas sobre a composição nutricional de alimentos naturais e saudáveis. | Auxiliar na elaboração de planos alimentares personalizados para meus clientes, promovendo a saúde e o bem-estar. |
-|CLIENTE | Encontrar informações sobre os benefícios para a saúde de diferentes alimentos naturais e suas propriedades nutricionais. | Incorporar escolhas alimentares mais saudáveis na minha dieta diária e melhorar minha qualidade de vida. |
-|CLIENTE | Acessar dados sobre o alimento saudável e seus benefícios. | Informar e educar o público sobre a importância de escolhas alimentares conscientes e promover hábitos saudáveis de vida.|
-|CLIENTE | Encontrar informações sobre opções de alimentos naturais e saudáveis que atendam às minhas necessidades dietéticas específicas. | Manter uma dieta equilibrada e saudável, mesmo com restrições alimentares, e garantir minha nutrição adequada.|
-|CLIENTE | Acessar informações sobre alimentos que atendam às minhas necessidades nutricionais específicas, levando em consideração minha prática esportiva. | Garantir que minha dieta seja adequada para sustentar meu desempenho atlético, mesmo com restrições alimentares.|
-|CLIENTE | Encontrar recursos sobre alimentação saudável que sejam compatíveis com minha condição médica, como diabetes, doença celíaca, alergias alimentares, entre outras. | Gerenciar minha condição de saúde através de uma dieta adequada e segura, minimizando sintomas e promovendo meu bem-estar geral.|
-|CLIENTE | Descobrir opções de alimentos que se encaixem no meu estilo de vida vegano/vegetariano e também atendam às minhas restrições alimentares específicas.| Manter uma dieta variada, equilibrada e nutritiva, mesmo com múltiplas restrições alimentares, sem comprometer meus princípios éticos ou minha saúde.|
-|CLIENTE | Encontrar informações sobre opções de alimentos que estejam alinhadas com minhas crenças ou convicções pessoais, como dietas kosher, halal, ou outras restrições alimentares baseadas em princípios religiosos ou éticos. | Seguir minha dieta de acordo com minhas convicções pessoais, respeitando minhas tradições e valores culturais. |
+|Ana Santos | Pesquisar alimentos ricos em proteínas e carboidratos complexos.  | Me preparar para uma competição importante.  |
+|Ana Santos | Encontrar alimentos com alto teor de antioxidantes e anti-inflamatórios naturais que possam ajudar a reduzir a inflamação e promover a reparação muscular. | Garantir que estou me alimentando corretamente para ajudar na recuperação muscular. |
+|Carlos Lima | Encontrar opções de alimentos ricos em proteínas vegetais que sejam convenientes e acessíveis.
+  | Manter uma dieta vegetariana equilibrada que atenda às minhas necessidades nutricionais e promova saúde e bem-estar.  
+|Carlos Lima | Descobrir novos alimentos de origem vegetal. | Utilizar em receitas criativas e ricas para variar minha alimentação e evitar monotonia. |
+|Maria Oliveira | Encontar alimentos que possam ser utilizados em refeições saudáveis e práticas | Organizar os ingredientes necessários para refeições e facilitar minhas idas ao supermercado. |
+|Maria Oliveira | Encontrar opções de lanches nutritivos e embaladas individualmente | Manter minha família alimentada de forma saudável, mesmo em meio à correria do dia a dia. |
+|João Silva | Alimentos que ajudem a manter minha concentração e energia. | Me manter alerta e focado durante longas sessões de estudo. |
+|João Silva | Encontrar opções de alimentos saudáveis que se encaixem na minha condição financeira.  | Manter a saúde e meu orçamento sob controle enquanto concentro nos estudos. |
+|Larissa Mendes | Me manter atualizada sobre as caracteristicas alimentares dos alimentos.  | Oferecer o melhor cuidado com meus pacientes. |
+|Larissa Mendes | Oferecer uma ferramenta de informação nutricional para meus pacientes.  | Que meus pacientes tenham acesso há informações sobre sua dieta.  |
+|Pedro Oliveira | verificar a composição nutricional de cada ingrediente e equilibrar os macronutrientes em minha receita.  | Garantir que estou usando ingredientes nutritivos.  |
+|Pedro Oliveira | Pesquisar informações detalhadas sobre superalimentos, incluindo sua composição nutricional e possíveis benefícios para a saúde.  | Expandir meu conhecimento sobre alimentos saudáveis e continuar a explorar novas opções para minhas receitas.  |
 
 
 ## Requisitos
