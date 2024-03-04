@@ -14,7 +14,7 @@ As personas levantadas durante o processo de entendimento do problema são apres
 | **Idade:** 28 **Profissão:** Atleta Profissional **Hobbies:** Alimentação e bem estar, caminhadas. | **Aplicativos:** Instagram, Apps bancários, Netflix, WhatsApp, Telegram. |
 | **Motivações:** Alcançar seu máximo potencial como atleta, melhorar seus tempos de corrida, prevenir lesões e manter um estado físico e mental ótimo. | **Preocupações:** Garantir que sua dieta forneça os nutrientes necessários para sustentar seu treinamento intenso e promover a recuperação muscular. |
 | Persona | 2 |
-| <img src="img/Personas/Persona 2.png" width="150" height="150" /> | **Carlos Lima** |
+| <img src="img/Personas/Persona 2.PNG" width="150" height="150" /> | **Carlos Lima** |
 | **Idade:** 35 **Profissão:** Engenheiro Mecânico **Hobbies:** Permacultura, Literatura e nutrição. | **Aplicativos:** Facebook, Aplicativos de bancos, Whatsapp. |
 | **Motivações:** Promover a saúde pessoal, reduzir o impacto ambiental de sua dieta e viver de acordo com seus valores éticos. | **Preocupações:** Garantir que os alimentos que consome sejam livres de ingredientes de origem animal e atendam às suas necessidades nutricionais. |
 | Persona | 3 |
