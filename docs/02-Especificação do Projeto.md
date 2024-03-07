@@ -10,27 +10,27 @@ As personas levantadas durante o processo de entendimento do problema são apres
 
 | Persona | 1 |
 ---|---
-| <img src="img/personas/persona1.PNG" width="150" height="150" /> | **Ana Santos** |
+| <img src="img/Personas/Persona 1.jpg" width="150" height="150" /> | **Ana Santos** |
 | **Idade:** 28 **Profissão:** Atleta Profissional **Hobbies:** Alimentação e bem estar, caminhadas. | **Aplicativos:** Instagram, Apps bancários, Netflix, WhatsApp, Telegram. |
 | **Motivações:** Alcançar seu máximo potencial como atleta, melhorar seus tempos de corrida, prevenir lesões e manter um estado físico e mental ótimo. | **Preocupações:** Garantir que sua dieta forneça os nutrientes necessários para sustentar seu treinamento intenso e promover a recuperação muscular. |
 | Persona | 2 |
-| <img src="img/personas/persona1.PNG" width="150" height="150" /> | **Carlos Lima** |
+| <img src="img/Personas/Persona 2.PNG" width="150" height="150" /> | **Carlos Lima** |
 | **Idade:** 35 **Profissão:** Engenheiro Mecânico **Hobbies:** Permacultura, Literatura e nutrição. | **Aplicativos:** Facebook, Aplicativos de bancos, Whatsapp. |
 | **Motivações:** Promover a saúde pessoal, reduzir o impacto ambiental de sua dieta e viver de acordo com seus valores éticos. | **Preocupações:** Garantir que os alimentos que consome sejam livres de ingredientes de origem animal e atendam às suas necessidades nutricionais. |
 | Persona | 3 |
-| <img src="img/personas/persona1.PNG" width="150" height="150" /> | **Maria Oliveira** |
+| <img src="img/Personas/Persona 3.jpg" width="150" height="150" /> | **Maria Oliveira** |
 |**Idade:** 40 **Profissão:** Assistente Administrativo **Hobbies:** Horta doméstica e Confeitaria | **Aplicativos:** Facebook, Instagram, Whatsapp, Aplicativos de bancos. |
 |**Motivações:** Promover a saúde e o bem-estar de sua família, oferecendo alimentos saudáveis e equilibrados que se encaixem em sua rotina agitada. | **Preocupações:** Garantir que sua família consuma uma dieta nutritiva, mesmo com uma agenda lotada. |
 | Persona | 4 |
-| <img src="img/personas/persona1.PNG" width="150" height="150" /> | **João Silva** |
+| <img src="img/Personas/Persona 4.jpg" width="150" height="150" /> | **João Silva** |
 | **Idade:** 20 **Profissão:** Garsom  **Hobbies:** Economia, cutivo de cogumelos | **Aplicativos:** Facebook, Instagram, Whatsapp, Aplicativos de bancos, youtube. | | **Motivações:** Maximizar seu potencial acadêmico, promover sua saúde e bem-estar e desenvolver hábitos alimentares saudáveis que o acompanhem ao longo da vida. | 
  **Preocupações:** Garantir que sua dieta seja nutritiva e equilibrada, apesar das restrições de tempo e orçamento. |
 | Persona | 5 |
-| <img src="img/personas/persona1.PNG" width="150" height="150" /> | **Larissa Mendes** |
+| <img src="img/Personas/Persona 5.jpg" width="150" height="150" /> | **Larissa Mendes** |
 | **Idade:** 32 **Profissão:** Nutricionista  **Hobbies:** Nutrição, caminhada ao ar livre. | **Aplicativos:** Instagram, Skoob, Apps bancários, Netflix, WhatsApp, Telegram. | 
 |**Motivações:** Promover a saúde e o bem-estar de seus pacientes, fornecendo orientações nutricionais personalizadas que atendam às suas necessidades individuais.  | **Preocupações:** Garantir que suas recomendações nutricionais sejam baseadas em evidências científicas sólidas e dados precisos. |
 | Persona | 6 |
-| <img src="img/personas/persona1.PNG" width="150" height="150" /> | **Pedro Oliveira** |
+| <img src="img/Personas/Persona 6.jpg" width="150" height="150" /> | **Pedro Oliveira** |
 | **Idade:** 28 **Profissão:** Cozinheiro  **Hobbies:** Culinária, nutrição e bem estar | **Aplicativos:** Instagram, Apps bancários, Netflix, WhatsApp, Telegram e youtube. |
 | **Motivações:** Promover sua saúde e bem-estar, experimentar novos sabores e ingredientes, e compartilhar suas descobertas com sua comunidade online. **Preocupações:** Garantir que sua dieta seja nutritiva, equilibrada e sustentável. |
 
@@ -105,7 +105,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |RE-04| A aplicação é responsável por garantir que o banco de dados esteja sempre preciso e atualizado, garantindo que todas as informações nele contidas reflitam com precisão as últimas mudanças e atualizações relevantes. Esta medida é crucial para assegurar que os usuários tenham acesso a dados confiáveis e atualizados, promovendo assim a eficácia e a utilidade da aplicação em fornecer informações precisas e relevantes. |
 |RE-05| A aplicação deve atender a todas as regulamentações e leis pertinentes ao setor e à localização geográfica em que opera. Isso pode incluir conformidade com leis de privacidade de dados, acessibilidade da web, padrões de segurança cibernética, entre outros. |
 |RE-06| A equipe do projeto deve deter o conhecimento necessário para o pleno desenvolvimento da aplicação.|
-|RE-07| A em desenvolvimento...|
+|RE-07| A em desenvolvimento ...|
 
 ## Gerenciamento de Projeto
 - A metodologia Scrum foi selecionada como a abordagem ágil do nosso projeto de desenvolvimento de aplicação web, tendo em vista os benefícios destacados no cotidiano do mercado da tecnologia. Tais benefícios incluem a definição clara dos resultados a serem alcançados, a imposição de um ritmo disciplinado de execução do trabalho, alocação precisa de papéis e responsabilidades (Scrum Owner, Scrum Master e Team), o empoderamento da equipe para enfrentar desafios, a distribuição colaborativa e compartilhada do conhecimento e a promoção de um ambiente propício à crítica construtiva das ideias. Estas razões solidificam a escolha do Scrum como a metodologia mais adequada para garantir o êxito do nosso projeto de aplicação web.
@@ -115,7 +115,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 -	Product Owner: Pedro Roberto Gomes da Silva Abadia
 -	Scrum Master: João Gabriel Barrozo Rocha
--	Equipe de Desenvolvimento: , Jonathan Vaz de Avelar, Lucas Antonio Miranda da Silva, 
+-	Equipe de Desenvolvimento: , Jonathan Vaz de Avelar, Lucas Antonio Miranda da Silva, Pedro Roberto Gomes da Silva Abadia, Lafayete Queiroz Horta, João Gabriel Barrozo Rocha
 -	Equipe de Design: Lafayete Queiroz Horta
 
 
