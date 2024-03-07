@@ -120,6 +120,7 @@ A equipe utiliza o Scrum como base para definição do processo de desenvolvimen
 
 
 ## Diagrama de Casos de Uso
+![Captura_de_tela_2024-03-06_212317](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/104217381/44b656cb-df95-48ab-b309-1ecd4c8e84a5)
 
 O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
 
