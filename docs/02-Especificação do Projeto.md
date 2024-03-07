@@ -69,15 +69,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| No cadastro de novo usuário, o sistema deverá consultar a disponibilidade do nome de usuário desejado, para que não existam perfis com nomes de usuário repetidos.   | Alta |
 |RF-005| Todos os campos no cadastro e login devem ser obrigatórios.   | Alta |
 |RF-006| Na tela de Alteração de Banners, o perfil administrador deve conseguir fazer upload da imagem, escolher quantos imagens terão.   | MÉDIA |
-|RF-007| Na abertura de chamado deve-se permitir anexar uma imagem.  | MÉDIA  |
-|RF-008| Todos os tipos de perfis após logados, na tela interna, terão um menu lateral esquerdo com as funções disponíveis, uma tela central onde serão apresentadas as telas internas, na parte superior esquerda deve ter a logo do site, na parte superior direita deve ter sobre o usuário logado: Foto; Nome de Usuário; Sair.   | MÉDIA |
-|RF-009| A tela alimentos deverá apresentar os botões: Filtrar por Ordem Alfabética.  | Alta |
-|RF-010| A tela de Criar Nova Pasta deverá ter os campos obrigatórios a preencher: Título da Pasta; Privacidade   | Alta |
-|RF-011| A tela de Alterar Foto deve ser apresentada ao clicar em Alterar Foto no menu esquerdo.   | Baixa |
-|RF-012| A tela de Adicionar Novo Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.   | Alta |
-|RF-013| A tela de Alterar Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.   | Alta |
-|RF-014| O botão de Excluir Item deverá excluir o item do card.   | MÉDIA  |
-|RF-015| A tela de Visualizar Item permitirá o usuário visualizar os campos: Imagem do item; Título do Item; Categoria   | MÉDIA |
+|RF-007| Todos os tipos de perfis após logados, na tela interna, terão um menu lateral esquerdo com as funções disponíveis, uma tela central onde serão apresentadas as telas internas, na parte superior esquerda deve ter a logo do site, na parte superior direita deve ter sobre o usuário logado: Foto; Nome de Usuário; Sair.   | MÉDIA |
+|RF-008| A tela alimentos deverá apresentar os botões: Filtrar por Ordem Alfabética.  | Alta |
+|RF-009| A tela de Criar Nova Pasta deverá ter os campos obrigatórios a preencher: Título da Pasta; Privacidade   | Alta |
+|RF-010| A tela de Alterar Foto deve ser apresentada ao clicar em Alterar Foto no menu esquerdo.   | Baixa |
+|RF-011| A tela de Adicionar Novo Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.   | Alta |
+|RF-012| A tela de Alterar Item deverá ter os campos: Título do Item; Categoria; Inserir Imagem.   | Alta |
+|RF-013| O botão de Excluir Item deverá excluir o item do card.   | MÉDIA  |
+|RF-014| A tela de Visualizar Item permitirá o usuário visualizar os campos: Imagem do item; Título do Item; Categoria   | MÉDIA |
 
 ### Requisitos não Funcionais
 
