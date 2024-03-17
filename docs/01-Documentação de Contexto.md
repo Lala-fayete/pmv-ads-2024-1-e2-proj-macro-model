@@ -7,11 +7,6 @@ No contexto atual, onde a busca por uma alimentação saudável é uma prioridad
 O acesso a informações precisas sobre a composição nutricional dos produtos disponíveis no mercado nem sempre é fácil. Especialmente para pessoas com restrições alimentares, como intolerância ao glúten, lactose ou alergia a ovos, encontrar produtos adequados pode ser desafiador e demorado. Muitas vezes, os rótulos dos produtos não são claros o suficiente ou podem ser enganosos, o que pode levar a riscos à saúde para aqueles com restrições alimentares. Portanto, há uma necessidade clara de uma plataforma que forneça informações nutricionais detalhadas e precisas, além de alertas sobre a presença de ingredientes específicos, facilitando a escolha de produtos seguros e adequados para cada pessoa.
 
 
-
-
-https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/3b0f697b-3c0f-4d85-a7a0-321100f6d6bd
-
-
 ## Objetivos
 
 - Criar uma plataforma online que ofereça acesso fácil e rápido a informações nutricionais detalhadas de produtos alimentícios.
