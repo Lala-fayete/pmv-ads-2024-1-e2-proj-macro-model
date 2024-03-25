@@ -5,21 +5,14 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
-## Controle de Versão
+## Relação de Ambientes de Trabalho
 
-Ambiente 	Plataforma	Link de Acesso
-		
-Repositório de	GitHub	https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model
-código fonte		
-Documentos do	Google Drive	https://docs.google.com/document/d/1UuOGnqkjux2vV9J5X4zA9paWp9REdTxJ7TpqaYel7bs/edit
-Projeto		
-"Projeto de
-Interface e
-Wireframes"		
-		
-		
-Gerenciamento		
-do Projeto		
+| Ambiente | Plataforma | Link de Acesso |
+|-------------------------|--------------------|--------------------|
+| Repositorio do Codigo fonte. | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model |
+| Documentação do Projeto. | Google Drive. | https://docs.google.com/document/d/1UuOGnqkjux2vV9J5X4zA9paWp9REdTxJ7TpqaYel7bs/edit |
+| Projeto de Interface e Wireframes. | GitHub. | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/871/views/1. |	
+| Gerenciamento do Projeto. | . | . |
 
 ## Gerenciamento de Projeto
 
