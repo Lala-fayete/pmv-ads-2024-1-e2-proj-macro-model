@@ -13,7 +13,7 @@ O acesso a informações precisas sobre a composição nutricional dos produtos 
 - Implementar um sistema de alerta que avise os usuários sobre a presença de ingredientes aos quais são intolerantes ou alérgicos.
 - Garantir que a plataforma seja intuitiva e acessível, atendendo às necessidades de diversos tipos de usuários.
 - Fornecer uma base de dados abrangente e atualizada de produtos alimentícios, incluindo informações nutricionais precisas e detalhadas.
-- Educar os usuários sobre questões relacionadas à nutrição, restrições alimentares e leitura de rótulos de produtos
+- Educar os usuários sobre questões relacionadas à nutrição, restrições alimentares e leitura de rótulos de produtos.
     
 ## Justificativa
 
