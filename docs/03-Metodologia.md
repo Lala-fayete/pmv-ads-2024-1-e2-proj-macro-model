@@ -14,7 +14,7 @@ execução das tarefas do projeto.
 | Projeto de Interface e Wireframes. | GitHub. | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/871/views/1. |	
 | Gerenciamento do Projeto. | . | . |
 
-## Divisão de Papéis
+### Divisão de Papéis
 
 A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
 -	Product Owner: Pedro Roberto Gomes da Silva Abadia
