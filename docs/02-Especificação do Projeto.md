@@ -110,14 +110,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 - A metodologia Scrum foi selecionada como a abordagem ágil do nosso projeto de desenvolvimento de aplicação web, tendo em vista os benefícios destacados no cotidiano do mercado da tecnologia. Tais benefícios incluem a definição clara dos resultados a serem alcançados, a imposição de um ritmo disciplinado de execução do trabalho, alocação precisa de papéis e responsabilidades (Scrum Owner, Scrum Master e Team), o empoderamento da equipe para enfrentar desafios, a distribuição colaborativa e compartilhada do conhecimento e a promoção de um ambiente propício à crítica construtiva das ideias. Estas razões solidificam a escolha do Scrum como a metodologia mais adequada para garantir o êxito do nosso projeto de aplicação web.
 
 
-## Divisão de Papéis
-A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
--	Product Owner: Pedro Roberto Gomes da Silva Abadia
--	Scrum Master: João Gabriel Barrozo Rocha
--	Equipe de Desenvolvimento: , Jonathan Vaz de Avelar, Lucas Antonio Miranda da Silva, Pedro Roberto Gomes da Silva Abadia, Lafayete Queiroz Horta, João Gabriel Barrozo Rocha
--	Equipe de Design: Lafayete Queiroz Horta
-
-
 ## Diagrama de Casos de Uso
 ![Captura_de_tela_2024-03-06_212317](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/104217381/44b656cb-df95-48ab-b309-1ecd4c8e84a5)
 
