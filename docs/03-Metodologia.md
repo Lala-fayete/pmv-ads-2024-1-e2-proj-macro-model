@@ -16,14 +16,12 @@ execução das tarefas do projeto.
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
-
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+## Divisão de Papéis
+A equipe utiliza o Scrum como base para definição do processo de desenvolvimento.
+-	Product Owner: Pedro Roberto Gomes da Silva Abadia
+-	Scrum Master: João Gabriel Barrozo Rocha
+-	Equipe de Desenvolvimento: , Jonathan Vaz de Avelar, Lucas Antonio Miranda da Silva, Pedro Roberto Gomes da Silva Abadia, Lafayete Queiroz Horta, João Gabriel Barrozo Rocha
+-	Equipe de Design: Lafayete Queiroz Horta
 
 ### Processo
 
