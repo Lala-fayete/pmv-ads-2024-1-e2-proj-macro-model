@@ -33,7 +33,7 @@ Back-log - https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/871/views/1
 
 As ferramentas empregadas no projeto são:
 
-- :Visul Studio Community 2022 - é mais estável e compativel para execução do projeto.
+- Visual Studio Community 2022 - é mais estável e compativel para execução do projeto.
 - Whatsapp, Discord e Teams - Fácil acesso.
 - Figma para protótipo de wireframes - Interface intuitiva e amigável.
 - Lucichart para diagrama de classe - Optamos pela indicação da faculdade.
