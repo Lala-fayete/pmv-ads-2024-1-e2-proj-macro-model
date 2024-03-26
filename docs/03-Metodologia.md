@@ -11,7 +11,9 @@ execução das tarefas do projeto.
 |-------------------------|--------------------|--------------------|
 | Repositorio do Codigo fonte. | GitHub | https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model |
 | Documentação do Projeto. | Google Drive. | https://docs.google.com/document/d/1UuOGnqkjux2vV9J5X4zA9paWp9REdTxJ7TpqaYel7bs/edit |
-| Projeto de Interface e Wireframes. | GitHub. | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/871/views/1. |	
+| Projeto de Interface e Wireframes. | GitHub. | https://www.figma.com/ |	
+| Gerenciamento do projeto | GitHubProjects | https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/871/views/1. |	
+| Controle de Versão | Git | https://git-scm.com/ |	
 
 
 ### Divisão de Papéis
