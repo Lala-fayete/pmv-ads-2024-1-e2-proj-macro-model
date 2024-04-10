@@ -31,11 +31,12 @@
 				<input asp-for="Id" class="form-control" />
 			</div>
 			</br>
-			<button id="cadastro" , type="submit" class="btn btn-success">Insira uma imagem do produto(jpeg ou png)</button>
+			<button id="cadastro" , type="submit" class="btn btn-info">Insira uma imagem do produto(jpeg ou png)</button>
 			</br>
 			</br>
 			<div class="form-group">
-				<input type="submit" value="Adicionar na lista" class="btn btn-primary" />
+				<input type="submit" value="Adicionar na lista" class="btn btn-success" />
+				@* <a asp-controller="Produto" asp-action="Lista" class="btn btn-info">Adicionar na lista</a> *@
 			</div>
 		</form>
 

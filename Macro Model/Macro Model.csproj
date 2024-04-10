@@ -9,15 +9,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Remove="Views\Lista\**" />
     <Compile Remove="Views\NovaPasta1\**" />
     <Compile Remove="Views\NovaPasta\**" />
     <Compile Remove="Views\Pessoa - Cópia\**" />
+    <Content Remove="Views\Lista\**" />
     <Content Remove="Views\NovaPasta1\**" />
     <Content Remove="Views\NovaPasta\**" />
     <Content Remove="Views\Pessoa - Cópia\**" />
+    <EmbeddedResource Remove="Views\Lista\**" />
     <EmbeddedResource Remove="Views\NovaPasta1\**" />
     <EmbeddedResource Remove="Views\NovaPasta\**" />
     <EmbeddedResource Remove="Views\Pessoa - Cópia\**" />
+    <None Remove="Views\Lista\**" />
     <None Remove="Views\NovaPasta1\**" />
     <None Remove="Views\NovaPasta\**" />
     <None Remove="Views\Pessoa - Cópia\**" />

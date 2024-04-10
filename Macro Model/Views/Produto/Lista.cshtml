@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Macro_Model.Models.Produto>
+
+@{
+    ViewData["Title"] = "Lista";
+}
+
+<h1>Lista</h1>
+
+<p>
+    <a asp-action="Produto" class="btn btn-success" >Adicionar um novo produto</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nutricional)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Restricao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nutricional)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Restricao)
+            </td>
+            <td>
+                <a class="btn btn-warning" asp-action="Editar" asp-route-id="@item.Id">Editar</a> |
+                <a class="btn btn-primary" asp-action="Detalhe" asp-route-id="@item.Id">Detalhes</a> |
+                <a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

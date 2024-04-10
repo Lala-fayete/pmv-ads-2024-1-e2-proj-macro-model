@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Macro_Model.Models;
 
 namespace Macro_Model.Models
 {
@@ -8,6 +9,7 @@ namespace Macro_Model.Models
 
         public DbSet<Cadastro> Cadastro { get; set; }
 		public DbSet<Login> Login { get; set; }
+		public DbSet<Produto> Produto { get; set; }
 
 
 	}

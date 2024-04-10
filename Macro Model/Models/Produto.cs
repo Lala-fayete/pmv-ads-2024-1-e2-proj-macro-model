@@ -18,7 +18,7 @@ namespace Macro_Model.Models
 
         [Display(Name = "Informações Nutricionais")]
         [Required(ErrorMessage = "Obrigatório digitar uma relação nutricional")]
-        [StringLength(200, MinimumLength = 5, ErrorMessage = "Descreva qual o tipo de de produto e sua categoria nutricional.")]
+        [StringLength(500, MinimumLength = 5, ErrorMessage = "Descreva qual o tipo de de produto e sua categoria nutricional.")]
         public string Nutricional { get; set; }
 
 		[Display(Name = "Restrições alimentares ")]
