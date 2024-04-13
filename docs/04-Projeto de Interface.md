@@ -1,6 +1,41 @@
 
 # Projeto de Interface
 
+# Agrupamento inicial em desenvolvimento.
+
+Link de acesso ao teste interativo : https://marvelapp.com/prototype/8g763gh/screen/94351194
+
+![Base](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/7453731f-48bf-416b-b3ac-3413f689e54a)
+
+# Tela inicial 
+
+![Pagina01](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/cbc8d1f4-96e1-4a8e-85ad-c4cf1ba062f7)
+
+# Tela de Login
+
+![Pagina02](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/35d5880c-a616-4cc4-8df2-91b360ecde2a)
+
+# Tela de Cadastro
+
+![Pagina03](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/a93f5f9f-c0e2-46b6-a6e5-2465c4b12070)
+
+# Tela de quem somos
+
+![Pagina04](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/48b86c29-42e1-4ad7-a69d-851f107b0f4b)
+
+# Tela do Usuario
+
+![Pagina05](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/e45819e9-052a-48b5-86e5-c282c10fc9ca)
+
+# tela cadastro de Alimentos
+
+![Pagina06](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/aa6a68b9-9811-4699-acd3-f55a8045fe87)
+
+# Tela Descrição de Alimento 
+
+![Pagina07](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e2-proj-macro-model/assets/145519272/1aaa539b-99af-49ac-9a0f-c4e00c9bec13)
+
+
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
 Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
